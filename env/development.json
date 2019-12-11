@@ -1,0 +1,12 @@
+{
+  "node_env": "development",
+  "db": {
+    "database": "universidad",
+    "username": "root",
+    "password": "root",
+    "host": "localhost"
+  },
+  "app": {
+    "port": 3000
+  }
+}
